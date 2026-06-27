@@ -1,4 +1,4 @@
-# Cplusplus-Program-v2
+# The-Gaming-Room
 
 This repository holds the completed software design document for The Gaming Room, a client that wanted to expand their Android drawing game, Draw It or Lose It, into a web-based app that works on any device. The document covers requirements, design constraints, a UML domain model, a platform evaluation, and architecture recommendations.
 
